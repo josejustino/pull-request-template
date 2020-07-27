@@ -1,17 +1,17 @@
-# Feature Description [require]
+## Feature Description [require]
 - Clearly and concisely describe the problem
 
-# Root Cause [require]
+## Root Cause [require]
 - Issues goes here
 
-# Propose Changes [require]
+## Propose Changes [require]
 - Change 1
 - Change 2
 
-# Additional Info [optional]
+## Additional Info [optional]
 - Any additional information or context
 
-# Checklist [require]
+## Checklist [require]
 - [ ] New Feature
 - [ ] Improvements
 - [ ] Bug fix
@@ -25,7 +25,7 @@
    - [ ] Integration tests
    - [ ] E2E tests
 
-# Screenshots [optional]
+## Screenshots [optional]
 
 Original                            |  Updated
 :----------------------------------------: | :----------------------------------------:
